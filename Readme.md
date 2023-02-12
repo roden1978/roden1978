@@ -1,7 +1,7 @@
 # Hi, friends! I`m Denis!
-## I'm Unity 3d developer. :video_game:
+## I'm Unity 3D developer. :video_game:
 
-I like write code! :computer: I like play games! :video_game: I like make games!
+I like write code! :metal: I like play games! :video_game: I like make games!
 
 ### Connect with me:
 
